@@ -1,3 +1,4 @@
+<-- THE PROJECT CAN BE BEST VIEWED AT 75% SCREEN ZOOM -->
 
 # Project Title
 
