@@ -21,7 +21,7 @@ The project is an Online Shopping website(Front-end part only). Its name is "sel
 
 ## Tools
 
-- The following programming languages were used: HTML, CSS
+- The following languages were used to design the website : HTML, CSS
 
 ## Files
 
